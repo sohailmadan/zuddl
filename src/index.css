@@ -11,3 +11,8 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.addIcon{
+  position: absolute;
+  left: 12%;
+  top: 1%;
+}
